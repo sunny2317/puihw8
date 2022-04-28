@@ -1,6 +1,7 @@
 # puihw8
-Video Link: https://cmu.zoom.us/rec/share/hkQ_c0qMBcZwQUjvI9DHFSGqGh3I0bXf4B-p2H3kga3Uoa-6brd-BQpoO9nAe2I9.q4ROZHKcjfy2HM94?startTime=1651115891000
-Passcode: 9?PHKc#4
+Video Link: https://cmu.zoom.us/rec/share/PdrwxffR36ObWzoOAmfiqwqj2eSoOn9-ssRX4mvfZwXW7g7iLBCUu_92Wht3Jmln.F2pP4T0SXO_ywRbM?startTime=1651116703000
+Passcode: 7sVD=B3t
+
 
 Figma Link: https://www.figma.com/file/q5QsumxjoEDl7Ml57aZaqH/PUI-Final-Project-Prototyping?node-id=95%3A2
 
