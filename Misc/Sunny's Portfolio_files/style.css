@@ -1,0 +1,70 @@
+/* headings and paragraphs */
+
+
+/* heading */
+h1 {
+	color: rgb(255, 229, 229);
+	font-family: 'Poppins', sans-serif;
+	font-size: 42px;
+}
+
+/* home page */
+h2 {
+	color: rgb(255, 229, 229);
+	font-family: 'Poppins', sans-serif;
+	font-size: 65px;
+}
+
+
+h3 {
+	color: rgb(0, 0, 0);
+	font-family: 'Nunito', sans-serif;
+	font-size: 25px;
+}
+
+
+h4 {
+	color: rgb(0, 0, 0);
+	font-family: 'Source Serif Pro', serif;
+}
+
+body {
+	height: 100%;
+	width: 100%;
+	background: url("sky.png");
+}
+
+
+/* classes */
+
+.home {
+	left: 99px;
+	top: 113px;
+	position: fixed;  
+	width: 75%;
+}
+
+.white{
+	font-color: white;
+}
+
+/* background */
+body, html {
+  height: 100%;
+  margin: 0;
+}
+
+.bg {
+  /* The image used */
+  background-image: url("sky.png");
+
+  /* Full height */
+  height: 100%; 
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+

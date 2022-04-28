@@ -1,0 +1,134 @@
+/* headings and paragraphs */
+
+
+/* heading */
+h1 {
+	color: rgb(251, 248, 204);
+	font-family: 'Poppins', sans-serif;
+	font-size: 50px;
+}
+
+/* home page */
+h2 {
+	color: rgb(255, 229, 229);
+	font-family: 'Poppins', sans-serif;
+	font-size: 65px;
+}
+
+
+h3 {
+	color: rgb(251, 248, 204);
+	font-family: 'Source Serif Pro', serif;
+	font-size: 25px;
+}
+
+
+h4 {
+	color: rgb(0, 0, 0);
+	font-family: 'Source Serif Pro', serif;
+}
+
+body {
+	height: 100%;
+	width: 100%;
+	background: url("sky.png");
+}
+
+
+/* classes */
+
+.home {
+	left: 10%;
+	top: 20%;
+	position: fixed;  
+	width: 80%;
+	text-align: center;
+}
+
+.madewith{
+	left: 80%;
+	top: 90%;
+	position: fixed;
+}
+
+.header{
+	left: 10%;
+	top: 20%;
+	position: fixed;  
+	width: 80%;
+	text-align: left-align;
+}
+
+.rectangle1 {
+  border-radius: 25px;
+  background: #fff0f3;
+  padding: 20px;
+  width: 100%;
+  height: 100%;
+}
+
+/* projects */
+.rectangle2 {
+  border-radius: 25px;
+  background: #fff0f3;
+  padding: 20px;
+  width: 50px;
+  height: 50px;
+}
+
+/* select */
+
+.select_photo {
+  font-family: 'Poppins', sans-serif;
+}
+
+
+
+
+/* background */
+body, html {
+  height: 100%;
+  margin: 0;
+}
+
+.bg {
+  background-image: url("sky.png");
+  height: 100%; 
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.colorbg{
+	background-color: blue;	
+}
+
+/* delete */
+
+/*navbar*/
+.topnav {
+  overflow: hidden;
+}
+
+.topnav a {
+  float: right;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 20px 20px;
+  text-decoration: none;
+  font-size: 20px;
+  font-family: 'Poppins', sans-serif;
+}
+
+.topnav a:hover {
+  background-color: rgb(251, 248, 204);
+  color: black;
+}
+
+.topnav a.active {
+  background-color: #a2d2ff;
+  color: black;
+}
+
+
+
